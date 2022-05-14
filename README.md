@@ -35,6 +35,7 @@ The goal of the game is to get a frog from the bottom of the screen to one of th
 * [MIPS Assembly](https://en.wikipedia.org/wiki/MIPS_architecture)
 * [MARS (MIPS Assembler and Runtime Simulator)](http://courses.missouristate.edu/kenvollmar/mars/)
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- Features -->
 ## Features
