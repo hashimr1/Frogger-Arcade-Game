@@ -11,21 +11,14 @@
 # - Display height in pixels: 256
 # - Base Address for Display: 0x10008000 ($gp)
 #
-# Which milestone is reached in this submission?
-# - Milestone 5
 #
 # Which approved additional features have been implemented?
-# (See the assignment handout for the list of additional features)
 # 1. Display number of lives
 # 2. Game over/restart screen
 # 3. Extra row
 # 4. Second level of difficulty after win
 # 5. Sound effects for moving, win, restart, colisions
 # 6. Die Animation
-# The combination is 3 easy and 3 hard features
-#
-# Any additional information that the TA needs to know:
-# - Thank you for an amazing semester Alireza!
 #
 #####################################################################
 .data
